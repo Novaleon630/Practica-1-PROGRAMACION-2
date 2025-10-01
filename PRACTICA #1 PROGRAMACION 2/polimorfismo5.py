@@ -25,4 +25,5 @@ c1=celular(987654321, "Juan Perez", 125, 8, 45)
 c1.mostrar()
 +c1
 -c1
+
 c1.mostrar()
